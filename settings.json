@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "C_Cpp.default.compilerPath": "c:\\Users\\Priyanka\\Documents\\Downloads\\html",
+    "workbench.editorAssociations": {
+        "*.hex": "default"
+    },
+    "files.autoSave": "afterDelay",
+    "security.workspace.trust.untrustedFiles": "open"
+}
